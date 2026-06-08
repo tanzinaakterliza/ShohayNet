@@ -1,3 +1,4 @@
+
 # ShohayNet
 
 ## Disaster Help Coordination Platform
@@ -10,7 +11,11 @@ ShohayNet is a web-based disaster management and humanitarian coordination platf
 
 ## Home Page
 
-![Home Page](screenshots/home.png)
+<img width="1919" height="874" alt="Screenshot 2026-06-08 133516" src="https://github.com/user-attachments/assets/c65f3a56-32d9-4005-833d-5a175f86a694" />
+<img width="1919" height="866" alt="Screenshot 2026-06-08 133544" src="https://github.com/user-attachments/assets/eb4de402-e550-46b8-9c4d-ce3a18feb5fe" />
+<img width="1919" height="866" alt="Screenshot 2026-06-08 133641" src="https://github.com/user-attachments/assets/709a3d7b-3a19-47dd-9bd5-014b2078a65e" />
+
+
 
 ## Features
 
